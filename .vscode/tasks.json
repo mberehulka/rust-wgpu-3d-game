@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "A",
+            "type": "shell",
+            "command": "cargo run",
+            "presentation": {
+                "clear": true
+            }
+        },
+        {
+            "label": "B",
+            "type": "shell",
+            "command": "cargo run --bin compile",
+            "presentation": {
+                "clear": true
+            }
+        },
+        {
+            "label": "C",
+            "type": "shell",
+            "command": "blender --background --python compiler.py",
+            "presentation": {
+                "clear": true
+            }
+        }
+    ]
+}
