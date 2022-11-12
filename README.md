@@ -1,4 +1,4 @@
-# 3D Rust Game
+# Rust 3d game with wgpu
 
 - Todo: 
   - [x] Compiler
