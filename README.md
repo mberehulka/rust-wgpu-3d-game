@@ -1,7 +1,5 @@
 ## Rust 3d game with [WGPU](https://wgpu.rs/)
 
-<br>
-
 - Todo: 
     - [x] Compiler
     - [x] Animations
@@ -21,8 +19,6 @@
     - Running:
     
             > cargo run
-
-<br>
 
 Screenshot:
 
