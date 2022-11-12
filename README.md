@@ -1,4 +1,4 @@
-# Rust 3d game with (WGPU)[https://wgpu.rs/]
+# Rust 3d game with [WGPU](https://wgpu.rs/)
 
 - Todo: 
   - [x] Compiler
