@@ -1,3 +1,3 @@
 # 3D Rust Game
 
-[](./screenshot.png)
+![](./screenshot.png)
