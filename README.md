@@ -20,6 +20,6 @@
     
             > cargo run
 
-Screenshot:
+- Screenshot:
 
-<img src="./screenshot.png" width="50%"/>
+    <img src="./screenshot.png" width="50%"/>
