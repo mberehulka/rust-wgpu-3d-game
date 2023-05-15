@@ -14,11 +14,11 @@
         
     - Compile meshes and textures:
     
-            > cargo run --bin compile
+            > cargo run --bin compile --release
             
     - Running:
     
-            > cargo run
+            > cargo run --release
 
 - Screenshot:
 
